@@ -1,0 +1,18 @@
+--- MAIN LAGO FUNCTIONS ---
+eLago                   Elliptical LAGO
+rank.eLago              Predict with Elliptical LAGO
+view.eLago              Visualize Elliptical LAGO
+sLago                   Spherical LAGO
+rank.sLago              Predict with Spherical LAGO
+view.sLago              Visualize Spherical LAGO
+
+--- FUNCTIONS FOR EVALUATING AND TUNING ---
+aKcontour               Plotting Function for the Tuning of LAGO
+avgp                    Average Precision
+topn                    Top n
+tuneLago                Tuning of LAGO
+
+--- OTHER FUNCTIONS ---
+preLago                 Preliminary calculation for LAGO
+show.test               Visualize the Test Data
+
